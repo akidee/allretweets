@@ -1,2 +1,10 @@
 This user script makes Twitter (on the twitter.com domain) load all retweets in your lists.
-Install tampermonkey first: https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo
+
+
+Installation
+
+Google Chrome: Install tampermonkey first: https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo
+
+Firefox: Install greasemonkey
+
+Access this URL to install the user script: https://github.com/akidee/allretweets/raw/master/allrts.user.js

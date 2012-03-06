@@ -32,7 +32,7 @@ s.innerHTML = '\
 				o.data.include_rts = 1;\
 			}\
 			DEBUG && console.log("$.ajax", arguments);\
-			_f.apply(null, arguments);\
+			return _f.apply(null, arguments);\
 		};\
 	}, 50);\
 })();\
